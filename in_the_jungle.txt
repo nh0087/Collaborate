@@ -1,8 +1,14 @@
 I walk through the color jungle. I take out my
+<<<<<<< HEAD
 food (adjective) canteen. There's a
 (adjective) parrot with a big mouth(adjective)
 _______________(noun) in his mouth right there in front
 of me in the _________(adjective) trees! I gaze at his
+=======
+small _(adjective) canteen. There's a flying (adjective) parrot with a purple(adjective)
+snail _(noun) in his mouth right there in front
+of me in the soft (adjective) trees! I gaze at his
+>>>>>>> e223a035ae22c7fbc08d2ed0f8ab9409800156c8
 __________(adjective) _______________(noun). A sudden
 sound awakes me from my daydream! A panther’s
 _______________(verb) in front of my head! I
